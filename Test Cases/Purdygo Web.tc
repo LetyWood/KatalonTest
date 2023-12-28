@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inicio de sesion, ir al modulo de vehiculos y cerrar sesion</description>
+   <name>Purdygo Web</name>
+   <tag>vehicles</tag>
+   <comment></comment>
+   <testCaseGuid>ccf9f8c1-ad04-420b-83e0-e443c98f2002</testCaseGuid>
+</TestCaseEntity>

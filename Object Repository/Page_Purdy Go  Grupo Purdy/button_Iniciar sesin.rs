@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Iniciar sesin</name>
+   <tag></tag>
+   <elementGuidId>1035941e-45b6-4365-9e82-c7ce11e4da26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='defaultLayout']/div/div/div[2]/form/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-fznZeY.dGdwAN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed2a95df-8b97-4506-97f1-b4d977d1e1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fznZeY dGdwAN</value>
+      <webElementGuid>731160f1-f43a-4968-acca-810a4bb21e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar sesión</value>
+      <webElementGuid>929a5fa4-582c-4b5e-83c2-d0967c0d7c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;defaultLayout&quot;)/div[@class=&quot;sc-qOvHb dutuIt&quot;]/div[@class=&quot;sc-qWQHW hWGjXV&quot;]/div[@class=&quot;sc-oTaid zqGnO&quot;]/form[@class=&quot;sc-paWVw jeEIBW&quot;]/button[@class=&quot;sc-fznZeY dGdwAN&quot;]</value>
+      <webElementGuid>ecbbf6d3-7b89-45bf-92ed-a6e935d16227</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='defaultLayout']/div/div/div[2]/form/button</value>
+      <webElementGuid>640116fb-7334-4886-98ee-1e75665d391a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>aceb4401-b355-4875-8f98-ad92b924fd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
+      <webElementGuid>8e59d2a8-27e8-4de9-be5c-b522a6fb4044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

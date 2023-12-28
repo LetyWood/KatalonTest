@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cerrar Sesin</name>
+   <tag></tag>
+   <elementGuidId>24d2e574-e959-48a0-92a4-a04111f128db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='defaultLayout']/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-fznZeY.kYvLdU</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>140e6a08-58ca-4849-9773-2a01783bb087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fznZeY kYvLdU</value>
+      <webElementGuid>8f6f1d88-0766-4ac2-ae5e-4b94589c047c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar Sesión</value>
+      <webElementGuid>f6287d8f-fc9d-42a0-bef7-a7731b815719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;defaultLayout&quot;)/div[@class=&quot;sc-fzqBZW hPHGrP&quot;]/div[@class=&quot;sc-AxheI kVsmUQ&quot;]/div[@class=&quot;sc-fzqNJr ihAjCW&quot;]/div[@class=&quot;sc-pjGMk uLAiC&quot;]/button[@class=&quot;sc-fznZeY kYvLdU&quot;]</value>
+      <webElementGuid>89972c3b-d6dd-4c42-b654-93fc6054b42c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='defaultLayout']/div/div/div[2]/div/button</value>
+      <webElementGuid>6a71bd9c-5c29-4c18-ba5e-a06ed46a7932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>d322cb7b-2fc5-406e-8150-6ad28dfaed58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cerrar Sesión' or . = 'Cerrar Sesión')]</value>
+      <webElementGuid>fec5ccb9-294a-44b3-b43d-3f370c539ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
