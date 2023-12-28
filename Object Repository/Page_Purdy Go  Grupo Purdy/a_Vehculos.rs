@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vehculos</name>
+   <tag></tag>
+   <elementGuidId>77a4918f-5309-4a1e-98f8-087581e1cce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root-webapp-purdygo']/main/div/nav/nav/div/div[3]/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e745e945-41a9-44c6-b7f9-88042ecbdbc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-pzLIQ hVnYYB</value>
+      <webElementGuid>c60c225a-84e7-4cb3-af50-15824bb92654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/vehicles</value>
+      <webElementGuid>8ed50d5b-10b7-4551-ae01-e51a3315a0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Vehículos</value>
+      <webElementGuid>7eabfd0d-64f9-4436-8535-3061176a7e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root-webapp-purdygo&quot;)/main[1]/div[@class=&quot;sc-oUAMm kkeujj&quot;]/nav[@class=&quot;sc-pcwJP fvyGwI&quot;]/nav[@class=&quot;sc-qZusK QGBFG&quot;]/div[@class=&quot;nav&quot;]/div[@class=&quot;nav__row-second&quot;]/a[@class=&quot;sc-pzLIQ hVnYYB&quot;]</value>
+      <webElementGuid>9fedc61e-25e0-4e7d-a207-166986fa0cb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root-webapp-purdygo']/main/div/nav/nav/div/div[3]/a[3]</value>
+      <webElementGuid>031d7b3d-8d42-448d-a0ef-bfa6a4c44264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/vehicles')]</value>
+      <webElementGuid>b2238c11-6f52-4efe-8991-763b525aa244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>14a1f470-2d28-4c86-b49f-101914575def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/vehicles' and (text() = ' Vehículos' or . = ' Vehículos')]</value>
+      <webElementGuid>f4cfc8a0-ddfe-4e15-9d05-2f9225aa4157</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>610d6dee-ead1-4f1a-a493-45fd1f048e9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='defaultLayout']/div/div[2]/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Rav4 Toyota&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>77ca7a2f-2fdc-4c7c-9d76-5fd9814f7e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://res.cloudinary.com/dirpbkmoz/image/upload/w_250,h_150,c_thumb,f_auto,q_auto:good/v1675962415/purdygo/user/5f107d4806f9730011b2e506/vehicle/63da88b48db53c0012717d0c/zibzyqteq4bplygfr9z2</value>
+      <webElementGuid>e36a64af-a4e4-445e-8b82-7703f46b632c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Rav4 Toyota</value>
+      <webElementGuid>eee4ca43-015e-4921-97aa-a720f1ad0275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;defaultLayout&quot;)/div[@class=&quot;sc-fzqBZW hPHGrP&quot;]/div[@class=&quot;sc-fzqNJr fpgMSG&quot;]/div[@class=&quot;sc-AxheI bLPMbF cards-container-height&quot;]/div[@class=&quot;sc-pbxSd cJhWca card-link&quot;]/div[@class=&quot;img-container&quot;]/img[1]</value>
+      <webElementGuid>770dd77c-1ad3-4e60-b3e0-d5995af900d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='defaultLayout']/div/div[2]/div/div/div[2]/img</value>
+      <webElementGuid>af79ad4e-b80e-4562-b58b-28929065a33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Rav4 Toyota']</value>
+      <webElementGuid>9d8257dd-48f5-4f50-9522-84d885ce7696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/img</value>
+      <webElementGuid>ae378802-3d28-4661-830e-4b217fb0b501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://res.cloudinary.com/dirpbkmoz/image/upload/w_250,h_150,c_thumb,f_auto,q_auto:good/v1675962415/purdygo/user/5f107d4806f9730011b2e506/vehicle/63da88b48db53c0012717d0c/zibzyqteq4bplygfr9z2' and @alt = 'Rav4 Toyota']</value>
+      <webElementGuid>64141c15-f668-4852-9925-789449ba151c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

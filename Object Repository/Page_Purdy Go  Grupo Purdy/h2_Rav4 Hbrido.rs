@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Rav4 Hbrido</name>
+   <tag></tag>
+   <elementGuidId>9481acc4-0b85-4091-8cbd-1542baa2bc82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='defaultLayout']/div/div[2]/div[2]/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.sc-AxiKw.iWFIRl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>46369541-fdb6-449b-b336-2a68af9ab9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-AxiKw iWFIRl</value>
+      <webElementGuid>7da9006a-1e47-4b9e-9ffa-2c9d07df2e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rav4 Híbrido</value>
+      <webElementGuid>935313b1-7eff-4bfb-a67d-788b15e5c12c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;defaultLayout&quot;)/div[@class=&quot;sc-fzqBZW hPHGrP&quot;]/div[@class=&quot;sc-AxheI kePeXF&quot;]/div[@class=&quot;sc-qWSGh hWnzZY&quot;]/div[@class=&quot;sc-pTUxa izRPAv&quot;]/div[@class=&quot;sc-qcrOD lgHeMB&quot;]/h2[@class=&quot;sc-AxiKw iWFIRl&quot;]</value>
+      <webElementGuid>77215514-84cf-4f42-abf7-c8c72938b3c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='defaultLayout']/div/div[2]/div[2]/div/div/h2</value>
+      <webElementGuid>b75b215c-68b2-4b1d-b4e2-36a6f5daf8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>2727fe32-7e82-4769-9350-efc6cefe7114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Rav4 Híbrido' or . = 'Rav4 Híbrido')]</value>
+      <webElementGuid>428176f2-fc49-4fce-a61e-5c963b77f661</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
