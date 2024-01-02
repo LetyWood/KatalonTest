@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="med_web_reg" time="51.463" tests="1" failures="0" errors="0">
+   <testsuite name="med_web_reg" tests="1" failures="0" errors="0" time="51.463" skipped="0" timestamp="02-01-2024T09:46:01" hostname="LENOVO THINKPAD - 192.168.0.24" id="Test Suites/med_web_reg">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO THINKPAD\\git\\KatalonTest\\Reports\\20240102_094557\\med_web_reg\\20240102_094558"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO THINKPAD\\git\\KatalonTest\\Reports\\20240102_094557\\med_web_reg\\20240102_094558\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO THINKPAD - 192.168.0.24"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.24"/>
+         <property name="sessionId" value="d577487162633fda3abc291a89d66d96"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Purdygo Web" time="51.289" classname="Test Cases/Purdygo Web" status="PASSED">
+         <system-out><![CDATA[02-01-2024T09:46:01 - [TEST_CASE][PASSED] - Test Cases/Purdygo Web: Test Cases/Purdygo Web
+
+02-01-2024T09:46:02 - [TEST_STEP][PASSED] - openBrowser("https://www.purdygo.com/login"): Browser is opened with url: 'https://www.purdygo.com/login'
+
+02-01-2024T09:46:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-01-2024T09:46:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-01-2024T09:46:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.purdygo.com/login'
+
+02-01-2024T09:46:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/input_dni"), "206620322"): Text '206620322' is set on object 'Object Repository/Page_Purdy Go  Grupo Purdy/input_dni'
+
+02-01-2024T09:46:06 - [MESSAGE][PASSED] - Text '206620322' is set on object 'Object Repository/Page_Purdy Go  Grupo Purdy/input_dni'
+
+02-01-2024T09:46:06 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/input_Password"), "rW4xpLP3Il7ubrARDgVpwA=="): Text ****** has been set on object 'Object Repository/Page_Purdy Go  Grupo Purdy/input_Password'
+
+02-01-2024T09:46:07 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Purdy Go  Grupo Purdy/input_Password'
+
+02-01-2024T09:46:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/button_Iniciar sesin")): Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/button_Iniciar sesin' is clicked on
+
+02-01-2024T09:46:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/button_Iniciar sesin' is clicked on
+
+02-01-2024T09:46:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/a_Vehculos")): Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/a_Vehculos' is clicked on
+
+02-01-2024T09:46:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/a_Vehculos' is clicked on
+
+02-01-2024T09:46:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/img")): Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/img' is clicked on
+
+02-01-2024T09:46:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/img' is clicked on
+
+02-01-2024T09:46:39 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/h2_Rav4 Hbrido"), 0): Object 'Object Repository/Page_Purdy Go  Grupo Purdy/h2_Rav4 Hbrido' is present
+
+02-01-2024T09:46:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+02-01-2024T09:46:45 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Purdy Go  Grupo Purdy/h2_Rav4 Hbrido' is present
+
+02-01-2024T09:46:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/img_1")): Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/img_1' is clicked on
+
+02-01-2024T09:46:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/img_1' is clicked on
+
+02-01-2024T09:46:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Purdy Go  Grupo Purdy/button_Cerrar Sesin")): Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/button_Cerrar Sesin' is clicked on
+
+02-01-2024T09:46:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Purdy Go  Grupo Purdy/button_Cerrar Sesin' is clicked on
+
+02-01-2024T09:46:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-01-2024T09:46:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-01-2024T09:46:01 - [TEST_SUITE][PASSED] - med_web_reg: Test Cases/Purdygo Web]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

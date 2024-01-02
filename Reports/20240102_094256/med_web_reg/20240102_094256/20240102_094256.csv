@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+med_web_reg,Chrome 120.0.0.0,"This is the first terst suite, like a test",,02-01-2024 09:43:00,02-01-2024 09:43:43,43.607s,PASSED
+,,,,,,,
+Test Cases/Purdygo Web,Chrome 120.0.0.0,"Inicio de sesion, ir al modulo de vehiculos y cerrar sesion",vehicles,02-01-2024 09:43:00,02-01-2024 09:43:43,43.408s,PASSED
+"openBrowser(""https://www.purdygo.com/login"")",Chrome 120.0.0.0,,,02-01-2024 09:43:00,02-01-2024 09:43:04,3.487s,PASSED
+"setText(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/input_dni""), ""206620322"")",Chrome 120.0.0.0,,,02-01-2024 09:43:04,02-01-2024 09:43:05,1.602s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/input_Password""), ""rW4xpLP3Il7ubrARDgVpwA=="")",Chrome 120.0.0.0,,,02-01-2024 09:43:05,02-01-2024 09:43:06,0.556s,PASSED
+"click(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/button_Iniciar sesin""))",Chrome 120.0.0.0,,,02-01-2024 09:43:06,02-01-2024 09:43:06,0.574s,PASSED
+"click(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/a_Vehculos""))",Chrome 120.0.0.0,,,02-01-2024 09:43:06,02-01-2024 09:43:10,3.314s,PASSED
+"click(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/img""))",Chrome 120.0.0.0,,,02-01-2024 09:43:10,02-01-2024 09:43:33,23.715s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/h2_Rav4 Hbrido""), 0)",Chrome 120.0.0.0,,,02-01-2024 09:43:33,02-01-2024 09:43:40,6.110s,PASSED
+"click(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/img_1""))",Chrome 120.0.0.0,,,02-01-2024 09:43:40,02-01-2024 09:43:40,0.578s,PASSED
+"click(findTestObject(""Object Repository/Page_Purdy Go  Grupo Purdy/button_Cerrar Sesin""))",Chrome 120.0.0.0,,,02-01-2024 09:43:40,02-01-2024 09:43:43,2.964s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,02-01-2024 09:43:43,02-01-2024 09:43:43,0.218s,PASSED
