@@ -17,25 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.purdygo.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/input_dni'), '206620322')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/input_Password'), 'rW4xpLP3Il7ubrARDgVpwA==')
-
-WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/button_Iniciar sesin'))
-
-WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/a_Vehculos'))
-
-WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/img'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/h2_Rav4 Hbrido'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/img_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/button_Cerrar Sesin'))
-
-WebUI.closeBrowser()
+Void login() {
+	
+	WebUI.openBrowser('')
+	
+	WebUI.acceptAlert()
+	
+	WebUI.navigateToUrl('https://www.purdygo.com/login')
+	
+	WebUI.setText(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/input_dni'), '206620322')
+	
+	WebUI.setEncryptedText(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/input_Password'), 'rW4xpLP3Il7ubrARDgVpwA==')
+	
+	WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/button_Iniciar sesin'))
+	
+	WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/a_Vehculos'))
+	
+	WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/img'))
+	
+	WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/h2_Rav4 Hbrido'), 0)
+	
+	WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/img_1'))
+	
+	WebUI.click(findTestObject('Object Repository/Page_Purdy Go  Grupo Purdy/button_Cerrar Sesin'))
+	
+	WebUI.closeBrowser()
+}
 
